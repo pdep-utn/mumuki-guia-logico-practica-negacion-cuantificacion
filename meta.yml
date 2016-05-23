@@ -1,0 +1,15 @@
+---
+name: Práctica negación y cuantificación
+locale: es
+type: practice
+beta: false
+teacher_info: |-
+  La idea es practicar
+
+  * cuantificador existencial
+  * cuantificador universal
+  * negación
+  * artimética
+language: prolog
+id_format: '%05d'
+order: []
