@@ -12,4 +12,11 @@ teacher_info: |-
   * artimética
 language: prolog
 id_format: '%05d'
-order: []
+order:
+- 30
+- 40
+- 3
+- 50
+- 6
+- 70
+- 71
