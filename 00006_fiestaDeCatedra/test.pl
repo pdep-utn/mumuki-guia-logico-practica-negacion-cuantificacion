@@ -14,9 +14,6 @@ puedeIr(daniel).
 test(test_puede_ir_luisa):-
 puedeIr(luisa).
 
-test(test_puede_ir_ana):-
-puedeIr(ana).
-
 test(test_puede_ir_leo):-
 puedeIr(leo).
 
@@ -28,3 +25,6 @@ not(puedeIr(claudio)).
 
 test(test_no_puede_ir_alvaro):-
 not(puedeIr(alvaro)).
+
+test(test_no_puede_ir_ana):-
+not(puedeIr(ana)).
