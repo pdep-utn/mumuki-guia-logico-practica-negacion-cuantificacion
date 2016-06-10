@@ -9,7 +9,6 @@ teacher_info: |-
   * cuantificador existencial
   * cuantificador universal
   * negación
-  * artimética
 language: prolog
 id_format: '%05d'
 order:
