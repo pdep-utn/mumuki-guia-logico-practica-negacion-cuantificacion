@@ -10,7 +10,7 @@ La información es esta:
 * Brad, Leo y Johnny son carilindos.
 * Luciano y Lautaro son simpáticos.
 
-A la fiesta pueden ir: Nico, Daniel, y los alumnos de Daniel. Como las chicas insistieron, también pueden ir los carilindos.
+A la fiesta pueden ir: Nico, Daniel, y los alumnos de Daniel que no tengan alumnos. Como las chicas insistieron, también pueden ir los carilindos.
 
 > Escribí una base de conocimiento que permita responder las siguientes preguntas:
 >
