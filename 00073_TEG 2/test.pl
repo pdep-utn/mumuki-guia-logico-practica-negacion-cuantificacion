@@ -12,3 +12,9 @@ test(america_del_sur_esta_peleado):-
 
 test(asia_no_esta_peleado):-
  \+ estaPeleado(asia).
+ 
+test(el_magenta_se_atrinchero):-
+  seAtrinchero(magenta).
+  
+test(el_negro_no_se_atrinchero):-
+  \+ seAtrinchero(negro).
