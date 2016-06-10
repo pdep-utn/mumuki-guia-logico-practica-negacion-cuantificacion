@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: puedenAtacarse
+  inspection: HasBinding
+- binding: loLiquidaron
+  inspection: HasBinding
