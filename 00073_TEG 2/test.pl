@@ -6,3 +6,9 @@ test(el_negro_ocupa_oceania):-
   
 test(el_amarillo_no_ocupa_america_del_sur):-
  \+ ocupaContinente(amarillo, americaDelSur).
+
+test(america_del_sur_esta_peleado):-
+  estaPeleado(americaDelSur).
+
+test(asia_no_esta_peleado):-
+ \+ estaPeleado(asia).
