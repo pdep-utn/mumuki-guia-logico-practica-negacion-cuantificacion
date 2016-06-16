@@ -6,4 +6,4 @@ Con esta nueva información definí los siguientes predicados:
 * `estaPeleado/1` que se cumple para los continentes en los cuales todos los jugadores ocupan algún país.
 * `seAtrinchero/1` que se cumple para los jugadores que ocupan países en un único continente.
 
-> Asumí que `ocupa/2` que relaciona un país con un jugador ya se encuentra definido también.
+> Asumí que `ocupa/3` que relaciona un país con un jugador ya se encuentra definido también.
