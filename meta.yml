@@ -10,7 +10,7 @@ teacher_info: |-
   * cuantificador universal
   * negación
 language: prolog
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 30
 - 40
