@@ -1,4 +1,4 @@
-test(el_mas_fuerte):-
+test(el_mas_fuerte_zarlanga):-
   elPaisMasFuerte(canada).
   
 test(el_mas_fuerte_solo_es_uno, [fail]):-
