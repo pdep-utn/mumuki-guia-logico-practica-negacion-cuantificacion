@@ -8,5 +8,5 @@ En principio tenemos los siguientes predicados:
  
 A partir de esta información, desarrollá los siguientes predicados:
 
-* `puedenAtacarse/2` que relaciona dos jugadores si ocupan algún país limítrofe del otro y no son aliados.
+* `puedenAtacarse/2` que relaciona dos jugadores distintos si ocupan algún país limítrofe del otro y no son aliados.
 * `loLiquidaron/1` que se cumple para un jugador si no ocupa ningún país.

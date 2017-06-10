@@ -4,7 +4,7 @@ alianza(amarillo,magenta).
 
 %el numero son los ejercitos
 ocupa(argentina, magenta, 5).
-ocupa(chile, negro, 3).
+ocupa(chile, amarillo, 3).
 ocupa(brasil, amarillo, 8).
 ocupa(uruguay, magenta, 5).
 ocupa(alaska, amarillo, 7).
