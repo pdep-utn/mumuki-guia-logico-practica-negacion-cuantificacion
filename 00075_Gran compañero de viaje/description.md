@@ -20,5 +20,3 @@ habla(lucy, griego).
 ```
 
 Desarrollar el predicado `granCompanieroDeViaje/2` que relaciona a dos personas que tienen al menos un destino en común, si el segundo habla los idiomas de todos los destinos del primero para los cuales el primero no habla el idioma.
-
-Asegurar que el predicado sea inversible para los dos parámetros.
