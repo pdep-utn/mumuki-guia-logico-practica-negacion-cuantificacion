@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: granCompanieroDeViaje
+  inspection: Uses:forall
+- binding: granCompanieroDeViaje
+  inspection: Uses:not
