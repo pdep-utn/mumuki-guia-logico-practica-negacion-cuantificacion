@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: granCompanieroDeViaje
-  inspection: Uses:forall
+  inspection: Uses:forall/2
 - binding: granCompanieroDeViaje
-  inspection: Uses:not
+  inspection: Uses:not/1
